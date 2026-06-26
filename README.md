@@ -8,11 +8,13 @@ These projects explore applications of quantitative finance, machine learning, s
 
 ## Repository Links
 
-| AQUA Project 1 | Macro-Factor Driven Sector Allocation | [Open](https://github.com/kritin06/AQUA_Project_1) 
+| AQUA Project 1 | Macro-Factor Driven Sector Allocation | [Open](https://github.com/sthitpragye/AQUA_Project_1_Macro_Factors) 
 
-| AQUA Project 2 | Options Dashboard | [Open](https://github.com/kritin06/AQUA_Project_2) 
+| AQUA Project 2 | Options Dashboard | [Open](https://github.com/sthitpragye/AQUA_Project_2_Options_Dashboard) 
 
-| AQUA Project 3 | VaR Forecasting | [Open](https://github.com/kritin06/AQUA_Project_3) 
+| AQUA Project 3 | VaR Forecasting | [Open](https://github.com/sthitpragye/AQUA_Project_3_VaR_Forecasting) 
+
+| AQUA Project 4 | Options Greeks | [Open](https://github.com/sthitpragye/AQUA_Project_4_Greeks) 
 
 
 ## Project 1: Macro-Factor Driven Sector Allocation
